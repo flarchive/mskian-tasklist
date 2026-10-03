@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of mskian/tasklist.** Not for installation: use [Packagist](https://packagist.org/packages/mskian/tasklist) or the [upstream repository](https://github.com/mskian/tasklist).
 
-**0** versions archived · Latest: [`0.0.5`](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.5) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**5** versions archived · Latest: [`0.0.5`](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.5) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2019-10-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.1) |
+| `0.0.2` | 2019-10-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.2) |
+| `0.0.3` | 2020-03-05 | `>=0.1.0-beta.11 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.3) |
+| `0.0.4` | 2020-05-15 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.4) |
+| `0.0.5` | 2020-11-04 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/mskian-tasklist/tree/archive/v0.0.5) |
 
 Catalog entry: [packages/mskian-tasklist.json](https://github.com/flarchive/archive-index/blob/main/packages/mskian-tasklist.json)
 
